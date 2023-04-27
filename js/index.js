@@ -28,4 +28,4 @@ if (userAge < 18) {
 
 // Mostro all'utente il costo del biglietto
 
-document.getElementById("prezzo-biglietto").innerHTML = `Il prezzo del bilietto è ${ticketPrice}`;
+document.getElementById("prezzo-biglietto").innerHTML = `Il prezzo del biglietto è ${ticketPrice}`;
